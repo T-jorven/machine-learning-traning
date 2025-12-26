@@ -1,4 +1,19 @@
 # Logs
+# Debugger / IDE artifacts
+.pydevd/
+.pydevd*
+pydevd*
+*.pyx
+
+# Python
+__pycache__/
+*.pyc
+
+# Python virtual environments
+env/
+venv/
+.venv/
+bulldozer-price-prediction-project/env/
 
 # Large datasets
 bulldozer-price-prediction-project/data/
