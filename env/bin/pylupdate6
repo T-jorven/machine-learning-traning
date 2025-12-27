@@ -1,2 +1,0 @@
-#!/bin/sh
-exec /Users/nataliias/Desktop/sample_project/env/bin/python -m PyQt6.lupdate.pylupdate ${1+"$@"}
